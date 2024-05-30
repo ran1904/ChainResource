@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainResource", "ChainResource\ChainResource.csproj", "{610D63F3-50DA-4B8E-AC0C-C1BA74481861}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{610D63F3-50DA-4B8E-AC0C-C1BA74481861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{610D63F3-50DA-4B8E-AC0C-C1BA74481861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{610D63F3-50DA-4B8E-AC0C-C1BA74481861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{610D63F3-50DA-4B8E-AC0C-C1BA74481861}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F62EF75-9A86-477E-9F21-9D73C220A8C1}
+	EndGlobalSection
+EndGlobal
